@@ -1,0 +1,20 @@
+There are multiple activities.
+
+    Administrating AWS platform services - create, delete, update aws services as per the requests from Dev team.
+    IAM - create, delete, update users and their permissions.
+    Support - Giving support to Dev team in case any optimisation/troubleshooting going on for performance of application.
+    On call/3rd line support - Provide 24x7 support to AWS infrastructure.
+    Design - Involve in design and development of infrastructure architecture which hosts the applications.
+    Failover and Backup - Write cloud-formation templates and back scripts/jobs to take time backup of data and infrastructure.
+    Automation and DevOps - Doing lot of automation for the tasks which are done manually and keep updating them. Working on CI-CD pipelines to provide quick releases.
+    Like such and many. Its exciting if you have passion about it.
+
+http://www.avitzurel.com/blog/2016/06/06/running-elk-on-docker---full-solution/
+
+https://www.katacoda.com/courses/docker-production/launch-elk-aggregate-container-logs
+
+https://www.katacoda.com/courses/docker-production
+
+https://github.com/kubernetes/dashboard/blob/master/src/deploy/kubernetes-dashboard.yaml
+
+https://devopsanswers.com/create-production-docker-images/
